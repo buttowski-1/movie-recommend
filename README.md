@@ -5,13 +5,13 @@ Welcome to the Movie Recommendation System project! This document will guide you
 The Movie Recommendation System provides personalized movie recommendations based on user preferences and historical data. It uses various algorithms to analyze user ratings, movie genres, and other factors to suggest movies that the user is likely to enjoy.
 
 # Features:
-## Personalized Recommendations:  
+### Personalized Recommendations:  
 Get movie suggestions tailored to your taste.  
-## Rating System:   
+### Rating System:   
 Rate movies and receive recommendations based on your ratings.  
-## Genre-Based Filtering:  
+### Genre-Based Filtering:  
 Filter recommendations based on movie genres you prefer.  
-## Collaborative Filtering:  
+### Collaborative Filtering:  
 Utilize data from other users to improve recommendations.
-## Content-Based Filtering:  
+### Content-Based Filtering:  
 Analyze movie attributes to provide suggestions.
