@@ -1,8 +1,8 @@
 # Movie Recommendation System:
-Welcome to the Movie Recommendation System project! This document will guide you through the setup, usage, and features of this system.
+Welcome to the Movie Recommendation System project! This file will guide you through the setup, usage, and features of this system.
 
 # Overview:
-The Movie Recommendation System provides personalized movie recommendations based on user preferences and historical data. It uses various algorithms to analyze user ratings, movie genres, and other factors to suggest movies that the user is likely to enjoy.
+The Movie Recommendation System suggests personalized movie recommendations based on user preferences and historical data. It uses various algorithms to analyze user ratings, movie genres, and other factors to suggest movies that the user is likely to enjoy.
 
 # Features:
 ### Personalized Recommendations:  
